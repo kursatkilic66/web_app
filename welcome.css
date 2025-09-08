@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/entryBackground.png");
+    background-image: url("images/entryBackground.png");
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,4 +20,5 @@ body {
 }
 #welcome_addButton:active {
     background-color: #e6d4b3;
+
 }
